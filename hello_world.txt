@@ -1,1 +1,2 @@
 This is some test text :)
+More test text so I can try out VSC commit messages!
